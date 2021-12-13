@@ -32,7 +32,7 @@
 |Science  |https://www.science.org|
 |Nature Communication  |https://www.nature.com/ncomms/|
 |Cell Systems  |https://www.cell.com/cell-systems/home|
-|Molecular systems biology  |https://www.embopress.org/journal/17444292|
+|Molecular Systems Biology  |https://www.embopress.org/journal/17444292|
 |PLOS Biology  |https://journals.plos.org/plosbiology/|
 |PLOS One  |https://journals.plos.org/plosone/|
 
