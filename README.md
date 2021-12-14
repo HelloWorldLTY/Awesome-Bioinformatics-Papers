@@ -30,6 +30,7 @@
 |Nature  |https://www.nature.com|
 |Cell  |https://www.cell.com|
 |Science  |https://www.science.org|
+|The Proceedings of the National Academy of Sciences  |https://www.pnas.org/page/about|
 |Nature Communication  |https://www.nature.com/ncomms/|
 |Cell Systems  |https://www.cell.com/cell-systems/home|
 |Molecular Systems Biology  |https://www.embopress.org/journal/17444292|
